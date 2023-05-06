@@ -1,8 +1,4 @@
-const {
-  expect,
-  describe,
-  it,
-} = require("@jest/globals");
+const { expect, describe, it } = require("@jest/globals");
 const { createCounter } = require(".");
 
 describe("", () => {
