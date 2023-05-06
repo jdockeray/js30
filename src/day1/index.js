@@ -1,8 +1,8 @@
 /**
  * @return {Function}
  */
-var createHelloWorld = function () {
-  return function (...args) {
+const createHelloWorld = function () {
+  return function () {
     return "Hello World";
   };
 };
