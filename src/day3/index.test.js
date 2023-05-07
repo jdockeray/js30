@@ -1,11 +1,4 @@
-const {
-  expect,
-  describe,
-  it,
-  beforeAll,
-  beforeEach,
-  afterEach,
-} = require("@jest/globals");
+const { expect, describe, it } = require("@jest/globals");
 
 const { createCounter } = require("./index");
 

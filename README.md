@@ -1,20 +1,24 @@
 <img alt="spaceman" src="https://user-images.githubusercontent.com/2040040/236575714-83c35e9a-0529-4e39-a8dc-ba15e1af65b5.svg" width="150">
 
-## 30 days of Javascript
+# 30 Days of JavaScript
+
+This is a collection of JavaScript exercises designed to improve your skills over 30 days.
+
+## Table of Contents
+
+- [Day 1: Create Hello World Function](src/day1/README.md)
+- [Day 2: Counter](src/day2/README.md)
+- [Day 3: Counter Part 2](src/day3/README.md)
 
 ---
 
-leet codes 30 days of js, [details here](https://leetcode.com/discuss/study-guide/3458761/30-Days-of-LC-JavaScript-Challenge)
+To participate in LeetCode's 30 Days of JavaScript challenge, please see [details here](https://leetcode.com/discuss/study-guide/3458761/30-Days-of-LC-JavaScript-Challenge).
 
 ## Quick Start
 
-##### Commits
+Conventional commits are used in this project. See [here](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional) for more information.
 
-Conventional commits are used:
-
-https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional
-
-example values:
+Example commit values:
 
 ```bash
 [
@@ -30,4 +34,3 @@ example values:
   'style',
   'test'
 ];
-```
