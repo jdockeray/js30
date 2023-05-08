@@ -34,3 +34,4 @@ Example commit values:
   'style',
   'test'
 ];
+```
