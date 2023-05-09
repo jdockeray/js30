@@ -8,5 +8,4 @@ The returned array should be created such that returnedArray[i] = fn(arr[i], i).
 
 Please solve it without the built-in Array.map method.
 
-
 [read more at leet code](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/)
