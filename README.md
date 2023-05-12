@@ -12,7 +12,8 @@ This is a collection of JavaScript exercises designed to improve your skills ove
 - [Day 4: Basic Array Transforms](src/day4/README.md) `map`
 - [Day 5: Basic Array Transforms](src/day5/README.md) `filter`
 - [Day 6: Basic Array Transforms](src/day6/README.md) `reduce`
-- [Day 7: Functional Compostion](src/day7/README.md) `function composition`
+- [Day 7: Functional Compostion](src/day7/README.md) `functions composition`
+- [Day 8: Singleton](src/day8/README.md) `function singleton`
 
 ---
 
