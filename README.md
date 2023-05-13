@@ -14,6 +14,7 @@ This is a collection of JavaScript exercises designed to improve your skills ove
 - [Day 6: Basic Array Transforms](src/day6/README.md) `reduce`
 - [Day 7: Functional Compostion](src/day7/README.md) `functions composition`
 - [Day 8: Singleton](src/day8/README.md) `function singleton`
+- [Day 9: Memoize](src/day9/README.md) `memoize`
 
 ---
 
