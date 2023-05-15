@@ -16,6 +16,7 @@ This is a collection of JavaScript exercises designed to improve your skills ove
 - [Day 8: Singleton](src/day8/README.md) `functions singleton`
 - [Day 9: Memoize](src/day9/README.md) `functions memoize`
 - [Day 10: Curry](src/day10/README.md) `function curry`
+- [Day 11: Async Timeout](src/day10/README.md) `execution timeout`
 
 ---
 
