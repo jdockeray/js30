@@ -19,6 +19,7 @@ This is a collection of JavaScript exercises designed to improve your skills ove
 - [Day 11: Async Timeout](src/day11/README.md) `execution timeout`
 - [Day 12: Timers](src/day12/README.md) `promises promise.race`
 - [Day 13: Promise Pool](src/day13/README.md) `promises promise pools`
+- [Day 14: Cache Time Limit](src/day13/README.md) `prototypes`
 
 ---
 
