@@ -1,15 +1,6 @@
-const {
-  expect,
-  describe,
-  it,
-  beforeAll,
-  beforeEach,
-  afterEach,
-  afterAll,
-} = require("@jest/globals");
+const { expect, describe, it, beforeEach } = require("@jest/globals");
 
 const { TimeLimitedCache } = require("./index");
-// Date.UTC(year, monthIndex, day, hour, minute, second, millisecond)
 const now = Date.UTC(2023, 1, 1, 1, 1, 1, 1);
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
