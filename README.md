@@ -6,7 +6,7 @@ This is a collection of JavaScript exercises designed to improve your skills ove
 
 ## Table of Contents
 
-- [Day 1: Create Hello World Function](src/day1/README.md) `higher-order functions`
+- [Day 1: Create Hello World Function](src/day01/README.md) `higher-order functions`
 - [Day 2: Counter](src/day2/README.md) `closures`
 - [Day 3: Counter Part 2](src/day3/README.md) `objects, classes and proxies`
 - [Day 4: Basic Array Transforms](src/day4/README.md) `collections map`
